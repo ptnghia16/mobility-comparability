@@ -1,6 +1,9 @@
 # Bachelor Thesis: How does restricting labor mobility affect financial statement comparability? An examination of U.S. covenants not-to-compete.
 This repository stores the scripts underlying the results in my bachelor thesis at VinUni.
 
+### Master do file
+* Filename: Master.do
+ 
 ### Compute financial statement comparability with local peer 
 * File name: Q_acctcomp.do
 * input: Compustat quarterly 
@@ -40,7 +43,3 @@ This repository stores the scripts underlying the results in my bachelor thesis 
 * Filename: Real_consequences.do
 * input: Cleaned annually panel
 * output: Table 6
-
-### Master do file
-* Filename: Master.do
-
