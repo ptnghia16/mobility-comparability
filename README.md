@@ -2,14 +2,14 @@
 This repository stores the scripts underlying the results in my bachelor thesis at VinUni.
 
 ### Master do file
-* Filename: Master.do
+* File name: Master.do
  
-### Compute financial statement comparability with local peer 
+### Compute financial statement comparability with local peers
 * File name: Q_acctcomp.do
 * input: Compustat quarterly 
 * output: Annual financial statement (FS) comparability with local peers for each firm
 
-### Create the cleaned panel dataset
+### Create the cleaned panel data set
 * File name: Annual_panel_processing.do
 * input: Compustat annually 
 * output: Cleaned annually panel, merged with FS comparability data
