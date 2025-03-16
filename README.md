@@ -1,6 +1,11 @@
 # Bachelor Thesis: How does restricting labor mobility affect financial statement comparability? An examination of U.S. covenants not-to-compete.
 This repository stores the scripts underlying the results in my bachelor thesis at VinUni.
 
+Abstract: This study explores how labor mobility restrictions in the form of covenants not-to-compete (CNCs) affect financial statement comparability. Evidence shows that when a state increases the
+legal enforceability of these covenants, the financial statements of industry peers in this state become less comparable. The impact is stronger for industry followers and firms surrounded by
+more local peers, suggesting that labor-based knowledge spillover is a mechanism of this impact. Moreover, increases in CNC enforceability lead firms to face greater difficulties in raising capital
+and sustaining investment due to lower comparability. These findings have important implications for policymakers, accounting standard setters, and firm owners.
+
 ### Master do file
 * File name: Master.do
  
